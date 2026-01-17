@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h2>Welcome to our JSP Application adam</h2>
+<h2>Welcome to our JSP Application Okay lets go!!!</h2>
 
 <form method="post">
     Enter text:
