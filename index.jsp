@@ -112,7 +112,7 @@
 <body>
 <div class="card">
     <h1><span>DevOps Project</span></h1>
-    <div class="subtitle">Welcome to our JSP Application</div>
+    <div class="subtitle">Welcome to our JSP App</div>
 
     <form method="post" action="index.jsp">
         <input class="input" type="text" name="data" placeholder="Type text here..." value="<%= entered %>" />
